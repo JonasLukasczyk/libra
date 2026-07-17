@@ -1,6 +1,6 @@
 matplotlib
 opencv-python-headless 
-numpy==1.26.4 
+numpy
 matplotlib
 scikit-image 
 torch 
